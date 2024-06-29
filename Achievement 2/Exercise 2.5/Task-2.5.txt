@@ -1,0 +1,5 @@
+1. Addition of description Field
+Reason: To give more information about each recipe. This helps users understand what the dish is about and any special tips for making it.
+
+2. Addition of image Field
+Reason: To show what the finished dish looks like. Pictures make recipes more attractive and help users choose which ones they might like to try.
